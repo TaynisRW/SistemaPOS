@@ -1,0 +1,11 @@
+EJEMPLOS FACTURAS COLOMBIA
+
+https://www.dian.gov.co/fizcalizacioncontrol/herramienconsulta/FacturaElectronica/InformacionTecnica/Paginas/ejemplificacionesXML.aspx
+
+EJEMPLOS FACTURA MÉXICO
+
+https://solucionfactible.com/sfic/capitulos/timbrado/timbrado-cfdi-3_3.jsp
+
+EJEMPLOS FACTURAS PERÚ
+
+https://social.msdn.microsoft.com/Forums/es-ES/d61146ff-b8d3-4dac-8f4b-0ff8eaecbe9e/ejemplos-de-xml-con-ubl-version-21-facturacin-electronica-sunat?forum=webdeves

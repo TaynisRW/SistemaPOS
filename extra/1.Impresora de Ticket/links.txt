@@ -1,0 +1,9 @@
+1. Instalación Drivers: https://www.youtube.com/watch?v=lUaLPehcYuY
+
+2. Extensión para PHP:
+https://github.com/mike42/escpos-php
+
+C:\xampp2\htdocs\pos\extensiones
+
+3. Ejemplo de código:
+https://parzibyte.me/blog/2017/09/10/imprimir-ticket-en-impresora-termica-php/

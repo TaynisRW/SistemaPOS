@@ -1,0 +1,1 @@
+http://develoteca.com/codigo-de-de-barras-con-javascript-y-jquery-jsbarcode-y-jquery/
